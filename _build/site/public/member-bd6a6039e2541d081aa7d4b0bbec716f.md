@@ -5,7 +5,7 @@ Berikut peserta yang akan mengikuti Charmed Scout Camp 2025
 :label: daftar_peserta
 :align: left
 
-| No. | Barung | Nama ⠀|
+| No. | Barung ⠀ | Nama ⠀|
 | :-- | :----- | :--- |
 | 1. | **Merah** | Shin |
 | 2. |  | Joel |

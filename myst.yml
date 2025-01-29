@@ -1,0 +1,37 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 9d06695c-79c4-4558-9b12-149e8953f4ef
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  toc:
+    - file: intro.md
+    - title: Charmed Scout Camp 2025
+      children:
+        - file: content/campsite_map
+        - file: content/glossary
+        - file: content/rundown
+        - file: content/rules
+        - file: content/inventory
+        - file: content/member
+        - file: content/meals_tracker
+        - file: content/prayer_tracker
+
+        - title: Day 1
+          children:
+            - file: content/day_1/obstacle_game
+
+        - title: Day 2
+          children:
+            - file: content/day_1/widegame_tracker
+            - file: content/day_1/formasi_upacara_penutupan
+
+site:
+  template: book-theme
+  options:
+    logo: charmed-red.png
+    #   favicon: favicon.ico

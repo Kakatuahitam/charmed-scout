@@ -27,8 +27,8 @@ project:
 
         - title: Day 2
           children:
-            - file: content/day_1/widegame_tracker
-            - file: content/day_1/formasi_upacara_penutupan
+            - file: content/day_2/widegame_tracker
+            - file: content/day_2/formasi_upacara_penutupan
 
 site:
   template: book-theme

@@ -1,6 +1,6 @@
 ---
 author: Tim Siaga CSC 2025
-thumbnail: _static/thumbs/main_menu.png
+thumbnail: thumbnails/main_menu.png
 ---
 
 # Pramuka Charmed Digital Resources

@@ -1,6 +1,6 @@
 ---
 author: Tim Siaga CSC 2025
-thumbnail: thumbnails/wide_game.png
+thumbnail: thumbnails/widegame_tracker.png
 ---
 
 # Wide Game Tracker

@@ -1,6 +1,6 @@
 ---
 author: Tim Siaga CSC 2025
-thumbnail: ../../thumbnails/obstacle_game.png
+thumbnail: ../thumbnails/obstacle_game.png
 ---
 # Obstacle Game Tracker
 

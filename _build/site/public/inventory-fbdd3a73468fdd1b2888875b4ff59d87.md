@@ -10,7 +10,7 @@ Stay Tuned!
 ## Perlengkapan Pribadi
 Pastikan perlengkapan berikut disiapkan dan dibawa sendiri yaa, berikut:
 
-- [ ] Ransel
+[ ] Ransel
 - [ ] Obat pribadi
 - [ ] Alat makan
   - [ ] Piring/wadah dengan tutup
@@ -23,10 +23,12 @@ Pastikan perlengkapan berikut disiapkan dan dibawa sendiri yaa, berikut:
   - [ ] Sampo
   - [ ] Sikat gigi
   - [ ] Pasta gigi
+
 - [ ] Alat komunikasi
   - [ ] Peluit
   - [ ] Headlamp/senter
   - [ ] Baterai cadangan
+
 - [ ] Alat ibadah
 - [ ] Alat renang
   - [ ] Pakaian renang
@@ -35,9 +37,11 @@ Pastikan perlengkapan berikut disiapkan dan dibawa sendiri yaa, berikut:
   - [ ] Sendal
   - [ ] Sepatu
   - [ ] Kaos kaki
+
 - [ ] Pakaian ganti 2 stel
   - [ ] Mandi sore
   - [ ] Mandi pagi
+
 - [ ] Pakaian cadangan 1 stel
 - [ ] Hanger pakaian (untuk Seragam Pramuka Harian)
 - [ ] Plastik untuk pakaian basah

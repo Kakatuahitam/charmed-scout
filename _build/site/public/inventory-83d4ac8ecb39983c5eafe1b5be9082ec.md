@@ -25,7 +25,7 @@ Pastikan perlengkapan berikut disiapkan dan dibawa sendiri yaa, berikut:
   - [ ] Sikat gigi
   - [ ] Pasta gigi
 
-- [ ] Alat komunikasi
+- [ ] Alat gomunikasi
   - [ ] Peluit
   - [ ] Headlamp/senter
   - [ ] Baterai cadangan
@@ -47,33 +47,18 @@ Pastikan perlengkapan berikut disiapkan dan dibawa sendiri yaa, berikut:
 - [ ] Hanger pakaian (untuk Seragam Pramuka Harian)
 - [ ] Plastik untuk pakaian basah
 
+
+
 ---
-## Perlengkapan Tas Kegiatan
-Tas kegiatan akan berisi barang yang digunakan saat berkeliling campsite dan berkegiatan, berikut yang perlu dibawa:
+Berikut perlengkapan yang akan didapat setelah her-registrasi:
 
-- [ ] Ransel kecil/tipis/tas serut
-- [ ] Botol minum (dan isinya yaaa)
-- [ ] Lap kain
-- [ ] Cemilan
-- [ ] Lotion anti nyamuk
-- [ ] Lotion *sunscreen*
-- [ ] Jas hujan
-- [ ] Nametag (diberikan setelah her-registrasi)
-- [ ] Alat tulis
-  - [ ] Pensil/pulpen
-  - [ ] Penghapus/*correction tape*
+- [ ] Kit peserta
+  - [ ] Mini Booklet
+  - [ ] Tas kecil
+  - [ ] Kupon makan
 
----  
 ## Perlengkapan Barung
-Yang tak kalah penting, perlengkapan yang harus dibawa bersama-sama dalam barung:
+Dan berikut yang harus dibawa setiap perwakilan barung!
 
-- [ ] Tongkat barung
-- [ ] Bendera barung (diberikan setelah her-registrasi)
-- [ ] Alat masak
-  - [ ] Sesuai menu masakan
-- [ ] Bahan masak
-  - [ ] Sesuai menu masakan
-- [ ] Tempat/rak sendal dan sepatu
-- [ ] Tempat sampah (diberi label nama barung)
-  - [ ] Anorganik
-  - [ ] Organik
+- [ ] Peluit untuk Pemimpin dan Wakil Pemimpin Barung
+- [ ] (tambahan lain)

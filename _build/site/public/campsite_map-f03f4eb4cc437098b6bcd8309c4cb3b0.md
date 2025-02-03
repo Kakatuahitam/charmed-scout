@@ -14,9 +14,7 @@ ini dia peta lokasi kegiatan nanti pada Google Maps!
 :::
 
 ## Tapak Kemah
-:::{figure} ../_static/images/denah_camp.jpeg
+:::{figure} ../_static/images/denah_camp.png
 :label: tapak-kemah
-Peta Tapak Kemah.
-
-Authors: Ka Simon and Ka Kayy
+Peta Tapak Kemah
 :::

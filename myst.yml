@@ -19,7 +19,6 @@ project:
         - file: content/inventory
         - file: content/member
         - file: content/meals_tracker
-        - file: content/prayer_tracker
 
         - title: Day 1
           children:
@@ -30,6 +29,7 @@ project:
             - file: content/day_2/widegame_tracker
             - file: content/day_2/formasi_upacara_penutupan
 
+        - file: content/lost_n_found
 site:
   template: book-theme
   options:

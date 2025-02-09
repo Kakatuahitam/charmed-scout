@@ -10,7 +10,3 @@ Akan ada 6 pos untuk Gelang Ajar, yaitu:
 1. Makrame
 1. Bela Diri
 1. Dance
-
-## Daftar Peserta Gelang Ajar
-
-*uploaded soon

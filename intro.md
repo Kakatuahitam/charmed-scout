@@ -39,3 +39,5 @@ Untuk negeri ini, yang akan diwujudkan anak-anak di hadapan kami.
 ## Download Booklet di Sini!
 
 🫱🏻 [Booklet CSC 2025 Siaga.pdf](_static/booklet_csc_2025_siaga.pdf)
+
+🫱🏻 [Booklet CSC 2025 Penggalang.pdf](_static/booklet_csc_2025_penggalang.pdf)

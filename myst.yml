@@ -10,28 +10,33 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: intro.md
-    - title: Charmed Scout Camp 2025
+    - file: content/campsite_map
+    - file: content/glossary
+    - title: CSC 2025 - Siaga
       children:
-        - file: content/campsite_map
-        - file: content/glossary
-        - file: content/rundown
-        - file: content/rules
-        - file: content/inventory
-        - file: content/member
-        - file: content/meals_tracker
+        - file: content/siaga/rundown
+        - file: content/siaga/rules
+        - file: content/siaga/inventory
+        - file: content/siaga/member
+        - file: content/siaga/meals_tracker
 
         - title: Day 1
           children:
-            - file: content/day_1/gelang_ajar
-            - file: content/day_1/obstacle_game
-            - file: content/day_1/api_unggun
+            - file: content/siaga/day_1/gelang_ajar
+            - file: content/siaga/day_1/obstacle_game
+            - file: content/siaga/day_1/api_unggun
 
         - title: Day 2
           children:
-            - file: content/day_2/widegame
+            - file: content/siaga/day_2/widegame
             # - file: content/day_2/formasi_upacara_penutupan
 
-        - file: content/lost_n_found
+
+    - title: CSC 2025 - Penggalang
+      children:
+        - file: content/campsite_map
+
+    - file: content/lost_n_found
 site:
   template: book-theme
   options:

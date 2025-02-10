@@ -1,0 +1,15 @@
+---
+author: Tim Siaga CSC 2025
+thumbnail: thumbnails/wide_game.png
+---
+
+# Wide Game Tracker
+
+
+## Daftar Presensi
+:::{iframe} https://docs.google.com/spreadsheets/d/e/2PACX-1vS3Ysm4EdtkiyTfdoCcb9TIpqTeSrX-KKLsomWHoxnZ2w5-_xIjsvVe6GIQOzQ0reh_TTquElzfLZmJ/pubhtml?gid=98147011&single=true&single=true&range=L4:T39
+:width: 100%
+:::
+
+## Daftar Nominasi
+**Rebut nominasi terbaik dan jadikan barungmu barung yang terbaik pada CSC edisi 2025 kali ini!**

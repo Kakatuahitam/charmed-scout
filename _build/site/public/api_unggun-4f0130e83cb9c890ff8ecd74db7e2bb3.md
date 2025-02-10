@@ -11,6 +11,13 @@ Formasi pada saat Upacara Api Unggun nanti. Selamat mengikuti
 :::
 
 ## Alur Upacara Api Unggun
+Narator: Ayu dan Odilia
+Pemain biola: Joel
+Pembawa lilin dan pembaca Dasa Darma: Dewan Penggalang
+Pemimpin lagu: Bina
+Himne Pramuka: Musikus iringan dari Kak Ika
+Musik: Kak Eko
+
 :::{table}
 :label: alur_upacara_api_unggun
 :align: left
@@ -27,11 +34,5 @@ Formasi pada saat Upacara Api Unggun nanti. Selamat mengikuti
 | 8. | ---- | Penutup |
 | 9. | ---- | Lanjut ke Pentas Kolaborasi |
 
-:::
 
-- Narator: Ayu dan Odilia
-- Pemain biola: Joel
-- Pembawa lilin dan pembaca Dasa Darma: Dewan Penggalang
-- Pemimpin lagu: Bina
-- Himne Pramuka: Musikus iringan dari Kak Ika
-- Musik: Kak Eko
+:::

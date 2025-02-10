@@ -17,22 +17,20 @@ Berikut susunan kegiatan yang akan berlangsung selama dua hari satu malam untuk 
 |   |  | 📸 Sesi Foto Keluarga |  |
 |   |  | Pengumpulan lembaran stiker jurnal | untuk penukaran hadiah |
 | 2.  | 09.00 - 10.00 | **Upacara Pembukaan (Gabungan)** | |
-|   |  | 👔 Seragam Pramuka Lengkap  |  |
 | 3.  | 10.00 - 12.00 | **Bermain Bersama Penggalang** | <click here> |
 |   | 11.00 - 12.00 | **Orientasi Orangtua bersama Kak Supri** | |
 | 4.  | 12.00 - 13.00 | **Ishoma dan *Check in*** | |
-| 5.  | 13.00 - 15.00 | **Obstacle Game** | |
-|   |  | 👔 Kaos Bebas + Celana Panjang  |  |
+| 5.  | 13.00 - 15.00 | Obstacle Game | |
 |   |  | Floating Bridge | Akan ada pembagian kelompok obstacle game |
 |   |  | Low Ropes |  |
 |   |  | Flying Fox |  |
-| 6.  | 15.00 - 15.30 | **Menuju Camp sekaligus menuntaskan TKK Pengamatan** | Mengikuti petunjuk pada booklet |
-| 7.  | 15.30 - 16.00 | **Istirahat dan Shalat Ashar** | |
-| 8.  | 16.00 - 17.30 | **Berenang Bersama** | Bola Air |
-| 9.  | 17.30 - 19.00 | **Ishoma** | |
+| 6.  | 15.00 - 15.30 | Menuju Camp sekaligus menuntaskan TKK Pengamatan | Mengikuti petunjuk pada booklet |
+| 7.  | 15.30 - 16.00 | Istirahat dan Shalat Ashar | |
+| 8.  | 16.00 - 17.30 | Berenang Bersama | Bola Air |
+| 9.  | 17.30 - 19.00 | Ishoma | |
 | 10.  | 19.00 - 22.00 | **Upacara Api Unggun** | Bersama Penggalang |
 |   |  | Pentas Kolaborasi | |
-| 11.  | 22.00 | **Tidur** | Persiapan tidur dan menuju kasur masing-masing |
+| 11.  | 22.00 | Tidur | Persiapan tidur dan menuju kasur masing-masing |
 :::
 
 
@@ -45,8 +43,8 @@ Berikut susunan kegiatan yang akan berlangsung selama dua hari satu malam untuk 
 | :-- | :---: | :------- | :--------- |
 | 1.  | 04.00 - 05.00 | **Shalat Shubuh** | Menuju area pendopo |
 |   | 05.00 - 06.00 | **Renungan Ibadah** | Akan diumumkan tempatnya |
-| 2.  | 06.00 - 07.00 | **Senam Bersama** | Bersama kakak-kakak Penggalang |
-| 3.  | 07.00 - 08.30 | **Masak, sarapan, mandi** | Barung memasak sesuai menu barung |
+| 2.  | 06.00 - 07.00 | Senam Bersama | Bersama kakak-kakak Penggalang |
+| 3.  | 07.00 - 08.30 | Masak, sarapan, mandi | Barung memasak sesuai menu barung |
 |   |  | Pengumpulan sampah organik dan non organik | Per barung |
 | 4.  | 08.30 - 10.30 | **Post to Post** | Lokasi bervariasi, ikuti petunjuk! |
 |   |  | **Post** | **Urutan Barung** |
@@ -57,10 +55,10 @@ Berikut susunan kegiatan yang akan berlangsung selama dua hari satu malam untuk 
 |   |  | 5. Tali-Temali | Barung Kuning |
 |   |  | 6. Permainan | Barung Orange |
 |   |  | 7. Refleksi | Tiap barung di pos terakhir, serentak |
-| 5.  | 10.30 - 12.30 | **Packing dan Bebenah** | Barak masing-masing |
+| 5.  | 10.30 - 12.30 | Packing dan Bebenah | Barak masing-masing |
 |   |  | Ishoma | Makan bersama |
 | 6.  | 12.30 - 13.00 | **Upacara Penutupan untuk Siaga** | Penghargaan dan penutupan |
 |   |  | 📸 Foto Bersama | Orangtua, Pembina, Nanda |
-| 7.  | 13.00 - 14.00 | **TKK Renang** | Harap mengisi list dahulu sebelum mengikuti |
+| 7.  | 13.00 - 14.00 | Menyicil TKK Renang | Harap mengisi list dahulu sebelum mengikuti |
 
 :::

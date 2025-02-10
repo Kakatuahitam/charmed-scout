@@ -1,7 +1,7 @@
 ---
 author: Tim Siaga CSC 2025
 ---
-# Gelang Ajar
+# Obstacle Game
 
 Akan ada 6 pos untuk Gelang Ajar, yaitu:
 1. Morse

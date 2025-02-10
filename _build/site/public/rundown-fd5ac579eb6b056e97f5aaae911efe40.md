@@ -32,7 +32,6 @@ Berikut susunan kegiatan yang akan berlangsung selama dua hari satu malam untuk 
 |   |  | 👔 Pakaian Renang  |  |
 | 9.  | 17.30 - 19.00 | **Ishoma** | |
 | 10.  | 19.00 - 22.00 | **Upacara Api Unggun** | Bersama Penggalang |
-|   |  | 👔 Seragam Pramuka Lengkap  |  |
 |   |  | Pentas Kolaborasi | |
 | 11.  | 22.00 | **Tidur** | Persiapan tidur dan menuju kasur masing-masing |
 :::
@@ -51,7 +50,6 @@ Berikut susunan kegiatan yang akan berlangsung selama dua hari satu malam untuk 
 | 3.  | 07.00 - 08.30 | **Masak, sarapan, mandi** | Barung memasak sesuai menu barung |
 |   |  | Pengumpulan sampah organik dan non organik | Per barung |
 | 4.  | 08.30 - 10.30 | **Post to Post** | Lokasi bervariasi, ikuti petunjuk! |
-|   |  | 👔 Baju Bebas  |  |
 |   |  | **Post** | **Urutan Barung** |
 |   |  | 1. Uji Ketangkasan | Barung Merah |
 |   |  | 2. Sandi | Barung Pink |
@@ -63,7 +61,6 @@ Berikut susunan kegiatan yang akan berlangsung selama dua hari satu malam untuk 
 | 5.  | 10.30 - 12.30 | **Packing dan Bebenah** | Barak masing-masing |
 |   |  | Ishoma | Makan bersama |
 | 6.  | 12.30 - 13.00 | **Upacara Penutupan untuk Siaga** | Penghargaan dan penutupan |
-|   |  | 👔 Seragam Pramuka Lengkap  |  |
 |   |  | 📸 Foto Bersama | Orangtua, Pembina, Nanda |
 | 7.  | 13.00 - 14.00 | **TKK Renang** | Harap mengisi list dahulu sebelum mengikuti |
 

@@ -22,6 +22,7 @@ project:
 
         - title: Day 1
           children:
+            - file: content/day_1/gelang_ajar
             - file: content/day_1/obstacle_game
 
         - title: Day 2

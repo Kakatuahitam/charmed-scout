@@ -18,7 +18,7 @@ Segala sumber digital dapat diakses melalui digital booklet ini. Selamat bersela
 
 ## About CSC
 
-**Apakah Charmed Scout Camp?**
+Apakah Charmed Scout Camp?
 
 Ini adalah kemah tahunan keluarga yang digagas dan dilaksanakan oleh para orang tua Pramuka Charmed untuk anak-anak calon penerus bangsa.
 Di perkemahan ini, filosofi dasar pendidikan untuk membentuk kebiasaan baik pembentuk karakter dipadukan dengan kerja keras orang tua memberikan eksekusi yang sempurna.
@@ -38,4 +38,4 @@ Untuk negeri ini, yang akan diwujudkan anak-anak di hadapan kami.
 
 ## Download Booklet di Sini!
 
-🫱🏻 [Booklet CSC 2025 Siaga.pdf](_static/booklet_csc_2025_siaga.pdf)
+[]()

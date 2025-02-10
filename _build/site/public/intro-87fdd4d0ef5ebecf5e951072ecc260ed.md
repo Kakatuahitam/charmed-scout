@@ -3,6 +3,7 @@ author: Tim Siaga CSC 2025
 thumbnail: thumbnails/main_menu.png
 ---
 
+
 # Pramuka Charmed Digital Resources
 
 ```{image} _static/images/camp.png
@@ -38,4 +39,6 @@ Untuk negeri ini, yang akan diwujudkan anak-anak di hadapan kami.
 
 ## Download Booklet di Sini!
 
-🫱🏻 [Booklet CSC 2025 Siaga.pdf](_static/booklet_csc_2025_siaga.pdf)
+[Booklet CSC 2025 Siaga](_static/booklet_csc_siaga.pdf)
+
+{download}`_static/Booklet CSC 2025 Siaga.pdf`

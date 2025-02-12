@@ -34,7 +34,9 @@ project:
 
     - title: CSC 2025 - Penggalang
       children:
-        - file: content/campsite_map
+        - file: content/penggalang/rundown
+        - file: content/penggalang/rules
+        - file: content/penggalang/inventory
 
     - file: content/lost_n_found
 site:

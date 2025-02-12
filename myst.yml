@@ -38,6 +38,20 @@ project:
         - file: content/penggalang/rules
         - file: content/penggalang/inventory
 
+        - title: Day 1
+          children:
+            - file: content/penggalang/day_1/upacara_pembukaan
+            - file: content/penggalang/day_1/gelang_ajar
+            - file: content/penggalang/day_1/cerdas_tangkas
+
+        - title: Day 2
+          children:
+            - file: content/penggalang/day_2/tantangan_memasak
+
+        - title: Day 3
+          children:
+            - file: content/penggalang/day_3/treasure_hunt
+
     - file: content/lost_n_found
 site:
   template: book-theme

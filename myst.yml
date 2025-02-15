@@ -37,12 +37,14 @@ project:
         - file: content/penggalang/rundown
         - file: content/penggalang/rules
         - file: content/penggalang/inventory
+        - file: content/penggalang/lirik_lagu
 
         - title: Day 1
           children:
             - file: content/penggalang/day_1/upacara_pembukaan
             - file: content/penggalang/day_1/gelang_ajar
             - file: content/penggalang/day_1/cerdas_tangkas
+            - file: content/penggalang/day_1/api_unggun
 
         - title: Day 2
           children:

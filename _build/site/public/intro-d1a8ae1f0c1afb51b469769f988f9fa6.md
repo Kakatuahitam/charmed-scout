@@ -55,8 +55,6 @@ Terdapat tombol menu di kiri atas yang akan membantu dalam mencari informasi sep
 
 :::
 
-## Tautan Penting
-
 
 
 ## Download Booklet di Sini!

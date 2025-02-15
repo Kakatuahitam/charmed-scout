@@ -37,25 +37,8 @@ Untuk negeri ini, yang akan diwujudkan anak-anak di hadapan kami.
 
 ---
 
-## Panduan Navigasi
+## Daftar Isi
 
-Terdapat tombol menu di kiri atas yang akan membantu dalam mencari informasi seperti berikut:
-
-:::{figure}
-:label: nav_help
-
-(nav_01)=
-![Tombol menu di kiri atas](_static/images/nav_help_01.png)
-
-(nav_02)=
-![Tampilan setelah dibuka](_static/images/nav_help_02.png)
-
-(nav_03)=
-![Tombol submenu setelah dibuka](_static/images/nav_help_03.png)
-
-:::
-
-## Tautan Penting
 
 
 

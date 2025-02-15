@@ -11,7 +11,6 @@ project:
   toc:
     - file: intro.md
     - file: content/campsite_map
-    - file: content/glossary
     - title: CSC 2025 - Siaga
       children:
         - file: content/siaga/rundown
@@ -52,9 +51,11 @@ project:
 
         - title: Day 3
           children:
-            - file: content/penggalang/day_3/treasure_hunt
+            - file: content/penggalang/day_3/outbond
 
+    - file: content/glossary
     - file: content/lost_n_found
+
 site:
   template: book-theme
   options:

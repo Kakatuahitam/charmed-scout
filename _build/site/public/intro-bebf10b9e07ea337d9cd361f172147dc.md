@@ -57,14 +57,12 @@ Terdapat tombol menu di kiri atas yang akan membantu dalam mencari informasi sep
 :::
 
 ## Tautan Penting
----
-### Rundown Kegiatan
 
-[Rundown Siaga](content/siaga/rundown.md)
+### Rundown Kegiatan
 
 [Rundown Penggalang](content/penggalang/rundown.md)
 
----
+
 ### Download Booklet di Sini!
 
 🫱🏻 [Booklet CSC 2025 Siaga.pdf](_static/booklet_csc_2025_siaga.pdf)
